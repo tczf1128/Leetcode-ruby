@@ -37,6 +37,8 @@ def has_path_sum(root, sum)
   _has_path_sum_(root, 0, sum)
 end
 
+private
+
 def _has_path_sum_(root, s, sum)
   l, r, v = root.left, root.right, root.val
   return s + v == sum if l.nil? && r.nil?
