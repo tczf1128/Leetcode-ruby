@@ -34,6 +34,7 @@ def delete_duplicates(head)
 
     if cursor.nil?
       curr.val, curr.next = val, nil
+      break
     end
 
     curr.val, curr = val, curr.next
