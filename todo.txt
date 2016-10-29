@@ -140,9 +140,6 @@ single_number_ii.rb
 single_number_iii.rb
 sliding_window_maximum.rb
 sort_list.rb
-spiral_matrix.rb
-spiral_matrix_ii.rb
-sqrtx.rb
 substring_with_concatenation_of_all_words.rb
 sudoku_solver.rb
 super_ugly_number.rb
@@ -161,7 +158,6 @@ valid_parentheses.rb
 valid_sudoku.rb
 validate_binary_search_tree.rb
 verify_preorder_serialization_of_a_binary_tree.rb
-wiggle_sort_ii.rb
 wildcard_matching.rb
 word_break.rb
 word_break_ii.rb
