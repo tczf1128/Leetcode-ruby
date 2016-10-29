@@ -98,8 +98,6 @@ nim_game.rb
 number_of_digit_one.rb
 number_of_islands.rb
 odd_even_linked_list.rb
-palindrome_linked_list.rb
-palindrome_number.rb
 palindrome_pairs.rb
 palindrome_partitioning.rb
 palindrome_partitioning_ii.rb
