@@ -115,7 +115,6 @@ range_sum_query_2d_immutable.rb
 range_sum_query_immutable.rb
 range_sum_query_mutable.rb
 reconstruct_itinerary.rb
-recover_binary_search_tree.rb
 rectangle_area.rb
 regular_expression_matching.rb
 remove_duplicate_letters.rb
