@@ -148,7 +148,6 @@ triangle.rb
 unique_binary_search_trees.rb
 unique_binary_search_trees_ii.rb
 unique_paths_ii.rb
-valid_palindrome.rb
 valid_parentheses.rb
 valid_sudoku.rb
 validate_binary_search_tree.rb
