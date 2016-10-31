@@ -115,7 +115,6 @@ remove_duplicate_letters.rb
 remove_invalid_parentheses.rb
 reorder_list.rb
 restore_ip_addresses.rb
-reverse_string.rb
 reverse_vowels_of_a_string.rb
 roman_to_integer.rb
 scramble_string.rb
