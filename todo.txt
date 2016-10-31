@@ -85,7 +85,6 @@ maximum_product_subarray.rb
 maximum_subarray.rb
 median_of_two_sorted_arrays.rb
 merge_intervals.rb
-merge_k_sorted_lists.rb
 minimum_height_trees.rb
 minimum_size_subarray_sum.rb
 minimum_window_substring.rb
