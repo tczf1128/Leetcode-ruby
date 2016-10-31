@@ -84,7 +84,6 @@ maximum_product_of_word_lengths.rb
 maximum_product_subarray.rb
 maximum_subarray.rb
 median_of_two_sorted_arrays.rb
-merge_intervals.rb
 minimum_height_trees.rb
 minimum_size_subarray_sum.rb
 minimum_window_substring.rb
