@@ -61,7 +61,6 @@ integer_break.rb
 integer_to_english_words.rb
 integer_to_roman.rb
 interleaving_string.rb
-intersection_of_two_arrays_ii.rb
 invert_binary_tree.rb
 jump_game_ii.rb
 largest_rectangle_in_histogram.rb
