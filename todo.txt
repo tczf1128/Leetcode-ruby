@@ -66,7 +66,6 @@ intersection_of_two_arrays.rb
 intersection_of_two_arrays_ii.rb
 invert_binary_tree.rb
 jump_game_ii.rb
-largest_number.rb
 largest_rectangle_in_histogram.rb
 longest_consecutive_sequence.rb
 longest_increasing_path_in_a_matrix.rb
