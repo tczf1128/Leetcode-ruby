@@ -51,8 +51,6 @@ gas_station.rb
 generate_parentheses.rb
 gray_code.rb
 group_anagrams.rb
-h_index.rb
-h_index_ii.rb
 house_robber.rb
 house_robber_ii.rb
 house_robber_iii.rb
