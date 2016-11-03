@@ -98,7 +98,6 @@ permutation_sequence.rb
 permutations.rb
 permutations_ii.rb
 plus_one.rb
-product_of_array_except_self.rb
 range_sum_query_2d_immutable.rb
 range_sum_query_immutable.rb
 range_sum_query_mutable.rb
