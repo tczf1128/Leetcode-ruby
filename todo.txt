@@ -67,7 +67,6 @@ longest_increasing_path_in_a_matrix.rb
 longest_increasing_subsequence.rb
 longest_palindromic_substring.rb
 longest_valid_parentheses.rb
-lru_cache.rb
 max_points_on_a_line.rb
 maximal_rectangle.rb
 maximal_square.rb
