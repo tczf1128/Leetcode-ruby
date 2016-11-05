@@ -11,7 +11,6 @@ binary_search_tree_iterator.rb
 binary_tree_maximum_path_sum.rb
 binary_tree_paths.rb
 binary_tree_postorder_traversal.rb
-binary_tree_preorder_traversal.rb
 binary_tree_right_side_view.rb
 binary_tree_zigzag_level_order_traversal.rb
 bulls_and_cows.rb
