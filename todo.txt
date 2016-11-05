@@ -8,7 +8,6 @@ best_time_to_buy_and_sell_stock_iii.rb
 best_time_to_buy_and_sell_stock_iv.rb
 best_time_to_buy_and_sell_stock_with_cooldown.rb
 binary_search_tree_iterator.rb
-binary_tree_level_order_traversal.rb
 binary_tree_level_order_traversal_ii.rb
 binary_tree_maximum_path_sum.rb
 binary_tree_paths.rb
