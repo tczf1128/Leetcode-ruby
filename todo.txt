@@ -28,7 +28,6 @@ container_with_most_water.rb
 contains_duplicate_iii.rb
 convert_sorted_array_to_binary_search_tree.rb
 convert_sorted_list_to_binary_search_tree.rb
-count_complete_tree_nodes.rb
 count_of_range_sum.rb
 count_of_smaller_numbers_after_self.rb
 course_schedule.rb
